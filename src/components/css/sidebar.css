@@ -1,0 +1,30 @@
+.layoutwrapper aside .logo {
+  text-align: center;
+}
+
+.layoutwrapper aside .logo img {
+  height: 100px;
+  width: 100px;
+}
+
+.layoutwrapper ul li {
+  padding: 6px;
+  margin-top: 8px;
+}
+
+.layoutwrapper ul li a {
+  color: white !important;
+}
+
+.layoutwrapper ul li:hover,
+.active_list_sidebar {
+  background-color: rgb(118 181 106);
+}
+
+.submenu_list_wrapper:hover {
+  background-color: unset !important;
+}
+
+.submenu-list li:hover {
+  background-color: rgb(118 181 106) !important;
+}

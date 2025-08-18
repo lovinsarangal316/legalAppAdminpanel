@@ -1,0 +1,76 @@
+/* Profile Page Styling */
+.userProfile {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.profile-header {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.avatar-container {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.profile-avatar {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.profile-info {
+  margin-left: 15px;
+}
+
+.profile-info h4 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.profile-info h6 {
+  margin: 0;
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.light_gray {
+  color: #6c757d;
+}
+
+.contact_info h6 {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.contact_info .d-flex {
+  margin-bottom: 10px;
+}
+
+.contact_info .w-25 {
+  font-weight: bold;
+}
+
+.personal-info h6 {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.personal-info .d-flex {
+  margin-bottom: 10px;
+}
+
+.personal-info .w-25 {
+  font-weight: bold;
+}
+
+hr {
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
+}
